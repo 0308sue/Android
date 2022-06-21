@@ -35,6 +35,14 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp07/My_Application.myapp07.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp07/My_Application.myapp07.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp07/My_Application.myapp07.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp07/My_Application.myapp07.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp07/My_Application.myapp07.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp07/My_Application.myapp07.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp08_intent/My_Application.myapp08_intent.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.unitTest.iml" />
     </modules>
   </component>
 </project>

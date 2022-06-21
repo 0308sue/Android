@@ -18,6 +18,8 @@
             <option value="$PROJECT_DIR$/myapp05" />
             <option value="$PROJECT_DIR$/myapp06" />
             <option value="$PROJECT_DIR$/myapp07" />
+            <option value="$PROJECT_DIR$/myapp08_intent" />
+            <option value="$PROJECT_DIR$/myapp09_adapter" />
           </set>
         </option>
       </GradleProjectSettings>
