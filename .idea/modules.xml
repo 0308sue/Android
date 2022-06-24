@@ -43,6 +43,18 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp09_adapter/My_Application.myapp09_adapter.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp10_frag/My_Application.myapp10_frag.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp11_db/My_Application.myapp11_db.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.unitTest.iml" />
     </modules>
   </component>
 </project>
