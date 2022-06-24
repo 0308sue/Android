@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fourFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/frameSize"
+        android:layout_marginLeft="@dimen/pageMarginAndoffset"
+        android:layout_marginRight="@dimen/pageMarginAndoffset">
+        <ImageView
+            android:id="@+id/imgBanner4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/black"
+            android:contentDescription="@string/app_name"/>
+        <TextView
+            android:id="@+id/tvName4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#f9ff0f"
+            android:textSize="20sp"
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:text="Hello Page"/>
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OneFragment">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/frameSize"
+        android:layout_marginLeft="@dimen/pageMarginAndoffset"
+        android:layout_marginRight="@dimen/pageMarginAndoffset">
+        <ImageView
+            android:id="@+id/imgBanner1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/purple_200"
+            android:contentDescription="@string/app_name"/>
+        <TextView
+            android:id="@+id/tvName1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#afd117"
+            android:textSize="20sp"
+            android:layout_centerInParent="true"
+            android:textStyle="bold"
+            android:text="Hello Page"/>
+    </RelativeLayout>
+</FrameLayout>

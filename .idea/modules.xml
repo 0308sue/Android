@@ -55,6 +55,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp12_viewpager/My_Application.myapp12_viewpager.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.unitTest.iml" />
     </modules>
   </component>
 </project>
