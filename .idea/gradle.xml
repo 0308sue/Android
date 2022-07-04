@@ -24,6 +24,14 @@
             <option value="$PROJECT_DIR$/myapp11_db" />
             <option value="$PROJECT_DIR$/myapp12_viewpager" />
             <option value="$PROJECT_DIR$/myapp13_ch13" />
+            <option value="$PROJECT_DIR$/myapp14_retofit" />
+            <option value="$PROJECT_DIR$/myapp15_retrofit_phone" />
+            <option value="$PROJECT_DIR$/myapp16_retrofit_register" />
+            <option value="$PROJECT_DIR$/myapp17_map" />
+            <option value="$PROJECT_DIR$/myapp18_map" />
+            <option value="$PROJECT_DIR$/myapp19_service" />
+            <option value="$PROJECT_DIR$/myapp20" />
+            <option value="$PROJECT_DIR$/myapp21" />
           </set>
         </option>
       </GradleProjectSettings>

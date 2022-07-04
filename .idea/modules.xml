@@ -59,6 +59,38 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp13_ch13/My_Application.myapp13_ch13.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp14_retofit/My_Application.myapp14_retofit.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp15_retrofit_phone/My_Application.myapp15_retrofit_phone.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp16_retrofit_register/My_Application.myapp16_retrofit_register.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp17_map/My_Application.myapp17_map.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp18_map/My_Application.myapp18_map.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp19_service/My_Application.myapp19_service.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp20/My_Application.myapp20.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.main.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/myapp21/My_Application.myapp21.unitTest.iml" />
     </modules>
   </component>
 </project>

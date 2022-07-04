@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pahts xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name = "myfiles" path = "Android/data/com.example.myapp18_map/files/pictures"/>
+</Pahts>
